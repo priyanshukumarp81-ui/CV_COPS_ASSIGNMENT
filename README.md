@@ -3,11 +3,12 @@
 ## 📂 Repository Structure
 
 
-├── model/
+├── model
+|
 │   ├── CNN_scratch.py         
 │   └── ResNet_18.py            
 │
-├── utils/
+├── utils
 │
 ├── Resnet18_training.ipynb    
 ├── cnnSCRATCH_training.ipynb  
